@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "663847847393",
+    "project_id": "courseproject-c8753",
+    "storage_bucket": "courseproject-c8753.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:663847847393:android:e873a5233d3a45114a7ea0",
+        "android_client_info": {
+          "package_name": "com.example.hackerspaceapp.ui.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "663847847393-3nh3lv6hcnnhm802fur87lofhmeeo1gc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.hackerspaceapp.ui.app",
+            "certificate_hash": "18ecbdfadb90d3c1d8b02dd1a5df3ad628f1c841"
+          }
+        },
+        {
+          "client_id": "663847847393-2p6ei7htpnevnjuireok32lih0b20q4b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYHFxkJ4bfdK5JD-VB1VtCS7mTURczZM8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "663847847393-2p6ei7htpnevnjuireok32lih0b20q4b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

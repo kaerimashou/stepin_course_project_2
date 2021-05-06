@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:minHeight="100dp"
+    android:layout_marginStart="15dp"
+    android:layout_marginEnd="15dp"
+    android:layout_marginTop="5dp"
+    android:padding="2dp">
+
+    <TextView
+        android:id="@+id/timeQueue"
+        android:layout_height="wrap_content"
+        android:layout_width="wrap_content"
+        tools:text="15:00 - 16:00"
+        android:layout_margin="8dp"
+        android:textSize="24sp"
+        android:textColor="@color/black"
+        />
+
+    <Button
+        android:id="@+id/checkInQueue"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="50dp"
+        android:layout_marginStart="70dp"
+        android:layout_toEndOf="@+id/timeQueue"
+        android:text="Sign up"/>
+</RelativeLayout>
